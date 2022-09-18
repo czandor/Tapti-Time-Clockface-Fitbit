@@ -1,0 +1,94 @@
+<defs>
+  <symbol id="all">
+
+    
+<svg class="background">
+  <image id="bg"/>
+  
+  <svg id="timeBlock">
+    <text id="timeText">
+      <animate attributeName="font-size" begin="disable"  final="restore" dur="0.5" />
+      <animate attributeName="x" begin="disable" final="restore" dur="0.5" />
+      <animate attributeName="y" begin="disable" final="restore" dur="0.5" />
+      
+      <animate attributeName="font-size" begin="enable" to="250" final="keep" easing="ease-out" dur="0.5" />
+      <animate attributeName="x" begin="enable" to="90%" final="keep" easing="ease-out" dur="0.5" />
+      <animate attributeName="y" begin="enable" to="50%+100" final="keep" easing="ease-out" dur="0.5" />
+
+      <animate attributeName="font-size" begin="activate" to="250" final="keep" easing="ease-out" dur="0.5" />
+      <animate attributeName="x" begin="activate" to="10%" final="keep" easing="ease-out" dur="0.5" />
+      <animate attributeName="y" begin="activate" to="50%+100" final="keep" easing="ease-out" dur="0.5" />
+
+      <animate attributeName="opacity" begin="mousedown" to="0" final="keep" easing="ease-out" dur="0.5" />
+      <animate attributeName="opacity" begin="mouseup" to="1" final="keep" easing="ease-out" dur="0.5" />
+    </text>
+  </svg>
+  <svg id="hrBlock">
+    <image class="icon" id="hrIcon" href="images/hr.png" />
+    <text class="textIcon" id="hrText">
+      <animate attributeName="font-size" begin="disable"  final="restore" dur="0.5" />
+      <animate attributeName="font-size" begin="enable" to="140" final="keep" easing="ease-out" dur="0.5" />
+    </text>
+    <animate attributeName="height" begin="disable"  final="restore" dur="0.5" />
+    <animate attributeName="width" begin="disable"  final="restore" dur="0.5" />
+    <animate attributeName="x" begin="disable" final="restore" dur="0.5" />
+    <animate attributeName="y" begin="disable" final="restore" dur="0.5" />
+
+    <animate attributeName="height" begin="enable" to="100%" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="width" begin="enable" to="100%" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="x" begin="enable" to="0" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="y" begin="enable" to="10" final="keep" easing="ease-out" dur="0.5" />
+
+    <animate attributeName="opacity" begin="mousedown" to="0" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="opacity" begin="mouseup" to="1" final="keep" easing="ease-out" dur="0.5" />
+  </svg>
+  <svg id="batteryBlock">
+    <image class="icon" id="batteryIcon" href="images/battery-0.png" />
+    <text class="textIcon" id="batteryText">
+      <animate attributeName="font-size" begin="disable"  final="restore" dur="0.5" />
+      <animate attributeName="font-size" begin="enable" to="140" final="keep" easing="ease-out" dur="0.5" />
+    </text>
+    <animate attributeName="height" begin="disable"  final="restore" dur="0.5" />
+    <animate attributeName="width" begin="disable"  final="restore" dur="0.5" />
+    <animate attributeName="x" begin="disable" final="restore" dur="0.5" />
+    <animate attributeName="y" begin="disable" final="restore" dur="0.5" />
+
+    <animate attributeName="height" begin="enable" to="100%" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="width" begin="enable" to="100%" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="x" begin="enable" to="0" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="y" begin="enable" to="10" final="keep" easing="ease-out" dur="0.5" />
+
+    <animate attributeName="opacity" begin="mousedown" to="0" final="keep" easing="ease-out" dur="0.5" />
+    <animate attributeName="opacity" begin="mouseup" to="1" final="keep" easing="ease-out" dur="0.5" />
+  </svg>
+  
+  
+  <rect id="buttonBottom">
+    <animate attributeName="opacity" begin="click" to="0.3" final="keep" dur="0.1" />
+    <animate attributeName="opacity" begin="click+0.1" final="restore" dur="0.1" />
+  </rect>
+  <rect id="buttonTop">
+    <animate attributeName="opacity" begin="click" to="0.3" final="keep" dur="0.1" />
+    <animate attributeName="opacity" begin="click+0.1" final="restore" dur="0.1" />
+  </rect>
+
+  
+  <!--text id="vibe" x="50%" y="50%" font-size="20" text-length="32" text-anchor="middle" fill="white" />
+  <text id="b0" x="10%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-0-</text>
+  <text id="b1" x="25%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-1-</text>
+  <text id="b2" x="40%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-2-</text>
+  <text id="b3" x="55%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-3-</text>
+  <text id="b4" x="70%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-4-</text>
+  <text id="b5" x="85%" y="70%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-5-</text>
+
+  <text id="b6" x="20%" y="90%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-6-</text>
+  <text id="b7" x="40%" y="90%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-7-</text>
+  <text id="b8" x="60%" y="90%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-8-</text>
+  <text id="b9" x="80%" y="90%" font-size="30" text-anchor="middle" fill="white" pointer-events="visible">-9-</text-->
+  
+</svg>
+
+    
+  </symbol>
+</defs>
+  

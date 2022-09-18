@@ -1,0 +1,71 @@
+.background {
+  viewport-fill: black;
+}
+#bg{
+  href:"images/bg.png";
+  x:0;
+  y:0;
+  width:100%;
+  height:100%;
+  fill:black;
+}
+
+#timeText {
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  fill: white;
+}
+
+#hrBlock{
+  width: 50%;
+  height:50%;
+  x: 50%;
+  y: 50%;
+}
+
+#batteryBlock{
+  width: 50%;
+  height:50%;
+  x: 0;
+  y: 50%;
+}
+.icon{
+  width: 40%;
+  height:40%;
+  x:30%;
+  y:0;
+  fill:white;
+}
+.textIcon{
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 4;
+  text-anchor: middle;
+  x: 50%;
+  y: 75%;
+  fill: white;
+  text-buffer: "120";
+}
+
+#buttonTop{
+  width:100%;
+  height:55%;
+  x:0;
+  y:0;
+  opacity:0;
+  fill:white;
+  pointer-events: visible;
+}
+#buttonBottom{
+  width:100%;
+  height:55%;
+  x:0;
+  y:45%;
+  opacity:0;
+  fill:white;
+  pointer-events: visible;
+}
+
+
