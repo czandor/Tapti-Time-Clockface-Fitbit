@@ -41,3 +41,11 @@ double double double double double double single single pause double double doub
 
 
 ☕ You can support my work (donate): https://czandor.hu/donate/taptic
+
+![Sense](https://github.com/czandor/Taptic-Time-Clockface-Fitbit/blob/main/screenshots/sense/0.png?raw=true)
+![Sense](https://github.com/czandor/Taptic-Time-Clockface-Fitbit/blob/main/screenshots/sense/1.png?raw=true)
+
+![Versa](https://github.com/czandor/Taptic-Time-Clockface-Fitbit/blob/main/screenshots/versa/0.png?raw=true)
+![Versa](https://github.com/czandor/Taptic-Time-Clockface-Fitbit/blob/main/screenshots/versa/1.png?raw=true)
+
+
