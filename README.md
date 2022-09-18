@@ -1,4 +1,4 @@
-# Tapti-Time-Clockface-Fitbit
+# Taptic-Time-Clockface-Fitbit
 
 👨‍🦯 This clockface is made for low vision, visually impaired, and for blind peoples, and it's completely free.
 
